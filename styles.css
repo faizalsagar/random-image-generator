@@ -138,10 +138,10 @@ footer {
   text-align: center;
   font-size: 14px;
   color: #999;
-  position: absolute;
+  position: top bottom;
   bottom: 0;
   width: 100%;
   padding: 10px;
-  background-color: #f2f2f2;
+  background-color: #fff;
   box-shadow: 0 -2px 2px rgba(0, 0, 0, 0.1);
 }
